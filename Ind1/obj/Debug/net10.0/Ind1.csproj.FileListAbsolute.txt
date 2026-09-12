@@ -1,0 +1,15 @@
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.AssemblyInfoInputs.cache
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.AssemblyInfo.cs
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.csproj.CoreCompileInputs.cache
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.sourcelink.json
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/bin/Debug/net10.0/Ind1
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/bin/Debug/net10.0/Ind1.deps.json
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/bin/Debug/net10.0/Ind1.runtimeconfig.json
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/bin/Debug/net10.0/Ind1.dll
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/bin/Debug/net10.0/Ind1.pdb
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.dll
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/refint/Ind1.dll
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.pdb
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/Ind1.genruntimeconfig.cache
+/home/aleksey/RiderProjects/DigitInManufacture/Ind1/obj/Debug/net10.0/ref/Ind1.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivHITYvlV9w=",
+  "success": true,
+  "projectFilePath": "/home/aleksey/RiderProjects/DigitInManufacture/Ind1/Ind1.csproj",
+  "expectedPackageFiles": [
+    "/home/aleksey/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
