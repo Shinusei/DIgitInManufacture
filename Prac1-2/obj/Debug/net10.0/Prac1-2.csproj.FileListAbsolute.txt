@@ -1,0 +1,14 @@
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/bin/Debug/net10.0/Prac1-2
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/bin/Debug/net10.0/Prac1-2.deps.json
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/bin/Debug/net10.0/Prac1-2.runtimeconfig.json
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/bin/Debug/net10.0/Prac1-2.dll
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/bin/Debug/net10.0/Prac1-2.pdb
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/Prac1-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/Prac1-2.AssemblyInfoInputs.cache
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/Prac1-2.AssemblyInfo.cs
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/Prac1-2.csproj.CoreCompileInputs.cache
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/Prac1-2.dll
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/refint/Prac1-2.dll
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/Prac1-2.pdb
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/Prac1-2.genruntimeconfig.cache
+/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/Debug/net10.0/ref/Prac1-2.dll
