@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aleksey/RiderProjects/Prac1-2/Prac1-2/Prac1-2.csproj": {}
+    "/home/aleksey/RiderProjects/DigitInManufacture/Prac1-2/Prac1-2.csproj": {}
   },
   "projects": {
-    "/home/aleksey/RiderProjects/Prac1-2/Prac1-2/Prac1-2.csproj": {
+    "/home/aleksey/RiderProjects/DigitInManufacture/Prac1-2/Prac1-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aleksey/RiderProjects/Prac1-2/Prac1-2/Prac1-2.csproj",
+        "projectUniqueName": "/home/aleksey/RiderProjects/DigitInManufacture/Prac1-2/Prac1-2.csproj",
         "projectName": "Prac1-2",
-        "projectPath": "/home/aleksey/RiderProjects/Prac1-2/Prac1-2/Prac1-2.csproj",
+        "projectPath": "/home/aleksey/RiderProjects/DigitInManufacture/Prac1-2/Prac1-2.csproj",
         "packagesPath": "/home/aleksey/.nuget/packages/",
-        "outputPath": "/home/aleksey/RiderProjects/Prac1-2/Prac1-2/obj/",
+        "outputPath": "/home/aleksey/RiderProjects/DigitInManufacture/Prac1-2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aleksey/.nuget/NuGet/NuGet.Config"

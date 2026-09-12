@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O/RJp3qT5vY=",
+  "dgSpecHash": "IF3PDN1xIWc=",
   "success": true,
-  "projectFilePath": "/home/aleksey/RiderProjects/Prac1-2/Prac1-2/Prac1-2.csproj",
+  "projectFilePath": "/home/aleksey/RiderProjects/DigitInManufacture/Prac1-2/Prac1-2.csproj",
   "expectedPackageFiles": [
     "/home/aleksey/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
   ],
