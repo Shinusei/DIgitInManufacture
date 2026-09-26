@@ -1,0 +1,15 @@
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.AssemblyInfoInputs.cache
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.AssemblyInfo.cs
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.csproj.CoreCompileInputs.cache
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.sourcelink.json
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/bin/Debug/net10.0/Prac3-4
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/bin/Debug/net10.0/Prac3-4.deps.json
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/bin/Debug/net10.0/Prac3-4.runtimeconfig.json
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/bin/Debug/net10.0/Prac3-4.dll
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/bin/Debug/net10.0/Prac3-4.pdb
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.dll
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/refint/Prac3-4.dll
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.pdb
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/Prac3-4.genruntimeconfig.cache
+/home/aleksey/RiderProjects/DigitInManufacture/Prac3-4/obj/Debug/net10.0/ref/Prac3-4.dll

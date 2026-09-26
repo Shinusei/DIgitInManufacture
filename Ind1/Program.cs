@@ -8,7 +8,6 @@ class Program
 
         while (!exit)
         {
-            Console.WriteLine("Калькулятор (вариант 8)");
             Console.WriteLine("1. Сложение двух чисел");
             Console.WriteLine("2. Перевод числа из десятичной в двоичную систему");
             Console.WriteLine("3. Вычисление длины окружности по радиусу");
